@@ -1,0 +1,25 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# notebooks
+.ipynb_checkpoints/
+*.checkpoint.ipynb
+
+# data & big artifacts
+data/
+datasets/
+*.zip
+*.tar
+*.pth
+*.pt
+outputs/*.pth
+outputs/*.pt
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
